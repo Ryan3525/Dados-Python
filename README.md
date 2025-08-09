@@ -35,19 +35,18 @@ Este projeto é um **dashboard interativo** desenvolvido em **Python** utilizand
    git clone https://github.com/Ryan3525/Dados-Python.git
    cd Dados-Python
 
-2. Craição da Venv (opcional)
+# 2. Criação da Venv (opcional)
 python -m venv venv
 source venv/bin/activate   # Linux/Mac
 venv\Scripts\activate      # Window
 
-3.Instalação das bibliotecas
+# 3.Instalação das bibliotecas
 pip install -r requirements.txt
 
-4.Execute o Aplicativo
+# 4.Execute o Aplicativo
 streamlit run app.py
 
-
-5. Acesse no navegador
+# 5. Acesse no navegador
 http://localhost:8501
 
 

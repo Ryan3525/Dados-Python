@@ -35,7 +35,7 @@ Este projeto é um **dashboard interativo** desenvolvido em **Python** utilizand
    git clone https://github.com/Ryan3525/Dados-Python.git
    cd Dados-Python
 
-# 2. Criação da Venv (opcional)
+### 2. Criação da Venv (opcional)
 python -m venv venv
 source venv/bin/activate   # Linux/Mac
 venv\Scripts\activate      # Window

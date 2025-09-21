@@ -1,4 +1,4 @@
-# Dados-Python
+# Dados Python
 
 Este projeto é um **dashboard interativo** desenvolvido em **Python** utilizando **Streamlit**, **Pandas** e **Plotly** para explorar e visualizar informações salariais na área de dados ao longo dos anos.
 
